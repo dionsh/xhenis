@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 620" role="img" aria-label="Aloe vera plant">
+  <rect width="900" height="620" fill="#edf4ee"/>
+  <path d="M0 472 C140 408 258 430 382 388 C520 340 632 358 900 296 V620 H0 Z" fill="#dbe8d6"/>
+  <path d="M452 462 C428 330 434 220 466 94 C522 220 524 342 478 462 Z" fill="#367b55"/>
+  <path d="M452 462 C364 330 316 214 308 116 C408 202 466 310 476 462 Z" fill="#2f6e4c"/>
+  <path d="M448 462 C542 328 616 250 728 202 C686 318 596 416 482 462 Z" fill="#3d9462"/>
+  <path d="M454 462 C386 382 278 354 170 372 C242 444 344 480 454 462 Z" fill="#2a6a48"/>
+  <path d="M450 462 C548 390 650 374 764 406 C690 476 566 504 450 462 Z" fill="#4aa36d"/>
+  <path d="M338 450 H570 L536 586 H372 Z" fill="#b87343"/>
+  <path d="M318 430 H590 V466 H318 Z" fill="#d1965f"/>
+</svg>

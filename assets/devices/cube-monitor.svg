@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 220" role="img" aria-label="Cube-Monitor v2.0 board">
+  <rect width="220" height="220" rx="28" fill="#e8ece7"/>
+  <rect x="52" y="36" width="112" height="146" rx="10" fill="#1e2b2a"/>
+  <rect x="66" y="52" width="45" height="42" rx="4" fill="#e8f0f3"/>
+  <rect x="118" y="52" width="30" height="42" rx="4" fill="#2f6d55"/>
+  <rect x="68" y="108" width="80" height="20" rx="3" fill="#cfc59b"/>
+  <rect x="68" y="138" width="20" height="24" rx="3" fill="#d36d48"/>
+  <rect x="98" y="138" width="20" height="24" rx="3" fill="#5aa36a"/>
+  <rect x="128" y="138" width="20" height="24" rx="3" fill="#d8b64e"/>
+  <g fill="#f1c94f">
+    <circle cx="44" cy="52" r="6"/>
+    <circle cx="176" cy="52" r="6"/>
+    <circle cx="44" cy="168" r="6"/>
+    <circle cx="176" cy="168" r="6"/>
+  </g>
+  <path d="M38 98 H52 M164 98 H182 M38 122 H52 M164 122 H182" stroke="#304541" stroke-width="8" stroke-linecap="round"/>
+  <path d="M84 36 V22 M112 36 V22 M140 36 V22" stroke="#304541" stroke-width="7" stroke-linecap="round"/>
+</svg>

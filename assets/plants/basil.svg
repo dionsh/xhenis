@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 620" role="img" aria-label="Basil plant">
+  <rect width="900" height="620" fill="#eef6ed"/>
+  <path d="M0 468 C170 404 290 422 430 372 C560 326 692 344 900 286 V620 H0 Z" fill="#d6e7ce"/>
+  <path d="M452 464 C450 346 452 248 456 152" stroke="#276b44" stroke-width="18" stroke-linecap="round" fill="none"/>
+  <ellipse cx="372" cy="254" rx="86" ry="46" transform="rotate(-34 372 254)" fill="#2f8b57"/>
+  <ellipse cx="542" cy="246" rx="86" ry="46" transform="rotate(34 542 246)" fill="#44a96a"/>
+  <ellipse cx="350" cy="350" rx="98" ry="54" transform="rotate(-18 350 350)" fill="#3b9d62"/>
+  <ellipse cx="560" cy="354" rx="98" ry="54" transform="rotate(18 560 354)" fill="#2f8b57"/>
+  <ellipse cx="452" cy="170" rx="70" ry="42" transform="rotate(-6 452 170)" fill="#54b975"/>
+  <path d="M332 448 H574 L540 586 H368 Z" fill="#a5643e"/>
+  <path d="M310 428 H596 V466 H310 Z" fill="#ce8956"/>
+</svg>

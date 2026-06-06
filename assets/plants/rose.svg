@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 620" role="img" aria-label="Rose plant">
+  <rect width="900" height="620" fill="#f6eeee"/>
+  <path d="M0 474 C150 410 292 430 430 380 C548 338 692 350 900 288 V620 H0 Z" fill="#dfebd9"/>
+  <path d="M454 462 C456 354 454 282 454 176" stroke="#285d3d" stroke-width="14" stroke-linecap="round" fill="none"/>
+  <path d="M408 214 C360 170 380 102 452 110 C524 100 548 174 500 214 C548 250 520 318 454 300 C388 318 360 250 408 214 Z" fill="#d94a5d"/>
+  <path d="M430 194 C446 154 486 154 500 194 C486 226 444 226 430 194 Z" fill="#b82943"/>
+  <ellipse cx="370" cy="330" rx="86" ry="38" transform="rotate(-24 370 330)" fill="#2f8553"/>
+  <ellipse cx="548" cy="354" rx="86" ry="38" transform="rotate(24 548 354)" fill="#3c9b62"/>
+  <path d="M336 450 H570 L536 586 H370 Z" fill="#a85c3a"/>
+  <path d="M314 430 H594 V466 H314 Z" fill="#ce8655"/>
+</svg>
